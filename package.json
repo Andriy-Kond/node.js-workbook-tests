@@ -1,0 +1,24 @@
+{
+  "name": "node.js-workbook-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andriy-Kond/node.js-workbook-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andriy-Kond/node.js-workbook-tests/issues"
+  },
+  "homepage": "https://github.com/Andriy-Kond/node.js-workbook-tests#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
